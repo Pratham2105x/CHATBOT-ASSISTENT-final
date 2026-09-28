@@ -1,0 +1,100 @@
+text,expected_intent
+"Can I pay the delivery person when my package arrives?",cash_on_delivery
+"Is cash payment possible when the order reaches me?",cash_on_delivery
+"Do I have to pay online or can I pay after delivery?",cash_on_delivery
+"Can you send this item to another country?",international_shipping
+"I am outside India, can you deliver this product to me?",international_shipping
+"Do you deliver orders internationally?",international_shipping
+"How many days should I wait before my package arrives?",delivery_time
+"When should I expect the parcel to reach me?",delivery_time
+"Can you tell me the expected arrival time?",delivery_time
+"What shipping methods can I choose from?",shipping_info
+"How will you send my order?",shipping_info
+"Which delivery options are available?",shipping_info
+"What information do you have about this item?",product_inquiry
+"Give me a general overview of this product.",product_inquiry
+"What should I know before buying this product?",product_inquiry
+"Can I buy this item right now?",product_availability
+"Is there stock available for this product?",product_availability
+"Do you currently have this product available?",product_availability
+"How long can I keep the product before returning it?",return_policy
+"What rules apply if I want to return something?",return_policy
+"Under what conditions can I send a product back?",return_policy
+"I already asked for a return. Has anything happened?",return_status
+"Can you tell me what is happening with my return request?",return_status
+"Is my existing return request still being processed?",return_status
+"The item delivered to me is completely different from what I ordered.",wrong_item_received
+"My package contains a product I never ordered.",wrong_item_received
+"You sent me the wrong item.",wrong_item_received
+"One of the products I paid for wasn't in the package.",missing_item
+"My delivery arrived but one item is absent.",missing_item
+"Part of my order was not included.",missing_item
+"Can I divide the payment into monthly installments?",installment_options
+"Is there an EMI option for this purchase?",installment_options
+"Can I pay for this over several months?",installment_options
+"My card was declined while I was checking out.",payment_issue
+"The payment failed when I tried to place the order.",payment_issue
+"Why did my transaction fail?",payment_issue
+"Will you match a lower price from another retailer?",price_match
+"I found the same product cheaper elsewhere. Do you match prices?",price_match
+"Can you offer the competitor's lower price?",price_match
+"Is this product suitable for my phone?",product_compatibility
+"Will this work with my device?",product_compatibility
+"Can I use this accessory with my laptop?",product_compatibility
+"How long is the warranty on this item?",product_warranty
+"What does the warranty cover?",product_warranty
+"Does this purchase include a warranty?",product_warranty
+"Where can I find the technical details of this product?",product_specifications
+"What are the main specifications of this item?",product_specifications
+"Tell me the important technical features.",product_specifications
+"Can I use a promo code for this purchase?",coupon_codes
+"Where should I enter my discount code?",coupon_codes
+"Why isn't my coupon being accepted?",coupon_codes
+"Are there any current deals on this product?",discounts_offers
+"Is this item currently being sold at a discount?",discounts_offers
+"Can I get a promotion on this purchase?",discounts_offers
+"Where is my package currently?",order_status
+"Has my order been dispatched yet?",order_status
+"What is happening with my purchase?",order_status
+"Can you give me the tracking number for my package?",order_tracking
+"Where can I track my shipment?",order_tracking
+"How do I follow my parcel?",order_tracking
+"My package is late.",order_delay
+"Why hasn't my order arrived yet?",order_delay
+"My delivery is past the expected date.",order_delay
+"I want to stop my order before it ships.",order_cancellation
+"Can I cancel the purchase I just made?",order_cancellation
+"How can I cancel an existing order?",order_cancellation
+"I need to change something in my order.",order_modification
+"Can I change the quantity after placing the order?",order_modification
+"Can I edit my purchase before it ships?",order_modification
+"I received a broken product.",damaged_item
+"The item arrived damaged.",damaged_item
+"What should I do about a damaged delivery?",damaged_item
+"I forgot my account password.",password_reset
+"How can I create a new password?",password_reset
+"I cannot remember the password I used.",password_reset
+"I can't sign into my account.",login_problem
+"The website won't let me log in.",login_problem
+"Why am I unable to access my account?",login_problem
+"I want to speak to a real person.",customer_support
+"Can you connect me with an agent?",customer_support
+"I need help from a human representative.",customer_support
+"How can I get in touch with your support team?",contact_info
+"What is the customer service email?",contact_info
+"Where can I find your support contact details?",contact_info
+"I want to see my previous purchases.",order_history
+"Can you show me my past orders?",order_history
+"Where can I view my earlier orders?",order_history
+"Can I get an invoice for my purchase?",order_receipt
+"Where can I download my receipt?",order_receipt
+"I need proof of purchase.",order_receipt
+"How do I exchange this for another size?",exchange_policy
+"Can I exchange this item?",exchange_policy
+"What are the rules for exchanging a product?",exchange_policy
+"How long does a refund usually take?",refund_status
+"I am still waiting for my refund.",refund_status
+"Has my refund been processed yet?",refund_status
+"How are refunds handled after a return?",refund_policy
+"What is your refund procedure?",refund_policy
+"When do you issue refunds?",refund_policy

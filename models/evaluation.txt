@@ -1,0 +1,82 @@
+ShopBot Intent Classification Evaluation
+=======================================================
+
+Intents: 57
+Vocabulary size: 415
+Total examples: 1368
+Training examples: 1094
+Test examples: 274
+
+Accuracy: 0.9380
+Weighted Precision: 0.9493
+Weighted Recall: 0.9380
+Weighted F1: 0.9377
+Macro Precision: 0.9499
+Macro Recall: 0.9386
+Macro F1: 0.9383
+
+Classification Report
+-------------------------------------------------------
+                        precision    recall  f1-score   support
+
+      account_deletion       1.00      1.00      1.00         4
+          account_help       1.00      1.00      1.00         5
+           bulk_orders       1.00      1.00      1.00         5
+      cash_on_delivery       1.00      1.00      1.00         5
+        change_address       1.00      1.00      1.00         5
+          contact_info       1.00      0.75      0.86         4
+          coupon_codes       0.83      1.00      0.91         5
+     customer_feedback       1.00      0.80      0.89         5
+      customer_support       1.00      1.00      1.00         5
+          damaged_item       1.00      1.00      1.00         5
+         delivery_time       0.80      0.80      0.80         5
+      discounts_offers       1.00      0.80      0.89         5
+       exchange_policy       1.00      1.00      1.00         4
+                   faq       1.00      1.00      1.00         4
+            gift_cards       1.00      1.00      1.00         5
+               goodbye       1.00      0.80      0.89         5
+              greeting       0.83      1.00      0.91         5
+         holiday_hours       1.00      1.00      1.00         5
+   installment_options       0.80      0.80      0.80         5
+international_shipping       1.00      0.60      0.75         5
+         login_problem       1.00      1.00      1.00         5
+       loyalty_program       1.00      0.80      0.89         5
+          missing_item       1.00      0.80      0.89         5
+     newsletter_signup       0.71      1.00      0.83         5
+    order_cancellation       1.00      1.00      1.00         5
+    order_confirmation       1.00      1.00      1.00         5
+           order_delay       0.83      1.00      0.91         5
+         order_history       1.00      1.00      1.00         4
+           order_issue       0.71      1.00      0.83         5
+    order_modification       1.00      1.00      1.00         5
+         order_receipt       0.80      1.00      0.89         4
+          order_status       1.00      1.00      1.00         4
+        order_tracking       0.83      1.00      0.91         5
+        password_reset       1.00      1.00      1.00         5
+         payment_issue       0.80      1.00      0.89         4
+       payment_methods       1.00      0.80      0.89         5
+       payment_pending       1.00      1.00      1.00         5
+           price_match       1.00      0.80      0.89         5
+  product_availability       0.83      1.00      0.91         5
+    product_comparison       1.00      1.00      1.00         5
+ product_compatibility       1.00      0.80      0.89         5
+       product_inquiry       0.80      0.80      0.80         5
+       product_reviews       0.83      1.00      0.91         5
+product_specifications       1.00      1.00      1.00         5
+      product_warranty       1.00      1.00      1.00         5
+         refund_policy       1.00      1.00      1.00         4
+         refund_status       1.00      1.00      1.00         5
+         return_policy       1.00      1.00      1.00         4
+         return_status       1.00      1.00      1.00         5
+         shipping_cost       1.00      1.00      1.00         5
+         shipping_info       0.71      1.00      0.83         5
+            size_guide       1.00      1.00      1.00         5
+          start_return       1.00      1.00      1.00         5
+        store_location       1.00      0.80      0.89         5
+  subscription_service       1.00      1.00      1.00         5
+       technical_issue       1.00      0.75      0.86         4
+   wrong_item_received       1.00      0.80      0.89         5
+
+              accuracy                           0.94       274
+             macro avg       0.95      0.94      0.94       274
+          weighted avg       0.95      0.94      0.94       274

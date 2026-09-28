@@ -1,0 +1,21 @@
+product_id,name,category,price,rating,stock,warranty_months,return_days,shipping_days,description
+P001,Wireless Headphones,Electronics,2499,4.4,42,12,7,3,Wireless over-ear headphones with noise isolation
+P002,Smart Watch,Electronics,3999,4.3,25,12,7,3,Smart watch with fitness tracking and heart-rate monitoring
+P003,Bluetooth Speaker,Electronics,1799,4.5,38,12,7,2,Portable Bluetooth speaker with long battery life
+P004,Mechanical Keyboard,Electronics,3299,4.6,18,12,7,4,Mechanical keyboard with RGB backlighting
+P005,Wireless Mouse,Electronics,1299,4.2,55,6,7,3,Ergonomic wireless mouse for work and gaming
+P006,Running Shoes,Fashion,2899,4.5,31,6,10,4,Lightweight running shoes with cushioned sole
+P007,Hoodie,Fashion,1599,4.3,46,0,10,4,Cotton blend casual hoodie
+P008,Backpack,Fashion,1999,4.4,27,6,10,3,Water-resistant laptop backpack
+P009,Sunglasses,Fashion,999,4.1,64,0,7,3,UV-protected everyday sunglasses
+P010,Denim Jacket,Fashion,2499,4.2,22,0,10,5,Classic denim jacket for casual wear
+P011,Coffee Maker,Home,3499,4.5,16,12,7,4,Automatic coffee maker for home use
+P012,Desk Lamp,Home,899,4.3,41,6,7,3,LED desk lamp with adjustable brightness
+P013,Air Fryer,Home,5999,4.6,14,12,7,5,Digital air fryer with multiple cooking modes
+P014,Electric Kettle,Home,1499,4.4,33,12,7,3,Fast-boiling electric kettle with auto shutoff
+P015,Table Fan,Home,2199,4.2,20,12,7,4,Compact table fan with multiple speed settings
+P016,Notebook Set,Stationery,499,4.6,85,0,7,2,Pack of premium ruled notebooks
+P017,Wireless Charger,Electronics,1099,4.3,37,6,7,3,Fast wireless charger for compatible devices
+P018,Water Bottle,Lifestyle,799,4.5,72,0,7,2,Insulated stainless steel water bottle
+P019,Yoga Mat,Sports,1299,4.4,29,6,10,3,Non-slip exercise and yoga mat
+P020,Travel Adapter,Travel,1599,4.2,24,12,7,4,Universal travel adapter with multiple ports
